@@ -1,2 +1,2 @@
 # Trial
-This is the repository.<br>Author is Kalash Thakur
+This is the repository.<br>Author is Joey Thakur
